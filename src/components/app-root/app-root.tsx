@@ -1,5 +1,4 @@
 import { Component, h } from '@stencil/core';
-import { RaiseDark } from '../raise-dark/raise-dark';
 
 @Component({
   tag: 'app-root',
